@@ -76,6 +76,8 @@ flutter build windows --release
 ## Licencia
 
 Sin licencia definida aún. 
+
+## Flujo de la App
 <img width="915" height="816" alt="untitled" src="https://github.com/user-attachments/assets/7016d1ac-1574-4c98-98b0-678456b8b705" />
 
 
