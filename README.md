@@ -1,5 +1,6 @@
 <div align="center">
-<img width="500" height="500" alt="Logo Educación Cerebro Ilustración Moderno Naranja y Morado" src="https://github.com/user-attachments/assets/8d42c0b4-ecf0-4006-93aa-58c76a550476" />
+<img width="500" height="500" alt="Logo Educación Cerebro Ilustración Moderno Naranja y Morado (1)" src="https://github.com/user-attachments/assets/5519fe10-6b1c-4dfc-84d2-d835c8036c1f" />
+
 
 # PalabrApp
 
