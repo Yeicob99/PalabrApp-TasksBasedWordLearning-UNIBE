@@ -1,4 +1,5 @@
 <div align="center">
+<img width="500" height="500" alt="Logo Educación Cerebro Ilustración Moderno Naranja y Morado" src="https://github.com/user-attachments/assets/8d42c0b4-ecf0-4006-93aa-58c76a550476" />
 
 # PalabrApp
 
@@ -74,3 +75,6 @@ flutter build windows --release
 ## Licencia
 
 Sin licencia definida aún. 
+<img width="915" height="816" alt="untitled" src="https://github.com/user-attachments/assets/7016d1ac-1574-4c98-98b0-678456b8b705" />
+
+
